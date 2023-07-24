@@ -1,0 +1,7 @@
+﻿  airpods.cpp
+D:\大一下\資結\program1\老子的airpods\assignment1\assignment1\airpods.cpp(67,242): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\大一下\資結\program1\老子的airpods\assignment1\assignment1\airpods.cpp(85,264): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\大一下\資結\program1\老子的airpods\assignment1\assignment1\airpods.cpp(219,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+D:\大一下\資結\program1\老子的airpods\assignment1\assignment1\airpods.cpp(34): warning C4715: 'min': 不是所有控制路徑都傳回值
+  LINK : 最後的累加連結找不到或未建置 D:\大一下\資結\program1\老子的airpods\assignment1\x64\Debug\assignment1.exe，正在執行完整連結
+  assignment1.vcxproj -> D:\大一下\資結\program1\老子的airpods\assignment1\x64\Debug\assignment1.exe
